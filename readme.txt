@@ -1,0 +1,2 @@
+This repository will serve as a play ground for radioactive python experiments, mostly revision of code crafting skills. 
+I will sharpen my blade on python and do some fun stuff here, starting from naive to Dexter level gradually.
